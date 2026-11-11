@@ -1,0 +1,15 @@
+# Artefatos de build e binários gerados
+build/
+*.o
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+
+# Capturas/artefatos temporários de teste
+tests/tbuf.bin
+tests/*.ppm
+
+# Imagens de máquina virtual
+*.vdi
